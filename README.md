@@ -1,1 +1,1 @@
-https://github.com/KrisVerem/rsschool-cv/blob/gh-pages/cv.md
+https://github.com/KrisVerem/rsschool-cv/tree/rsschool-cv-html
